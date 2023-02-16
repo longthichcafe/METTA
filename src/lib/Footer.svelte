@@ -9,7 +9,7 @@
 		<small>Generated at {new Date().toISOString()}</small>
 	</p>
 
-	<p class="company">
+	<p class="source">
 		<a target="_blank" href="https://sites.google.com/monash.edu/virtual-and-augmented-reality">👨‍💻 Projects</a>
 	</p>
 </footer>
@@ -34,24 +34,29 @@
 	}
 
 	a {
-		color: var(--svelte);
+		color: var(--fg);
 		text-decoration: none;
 	}
 
 	a:hover {
 		text-decoration: hover;
+		scale: 1.1;
+		transition: ease-in-out;
+		transition-duration: 0.2s;
 	}
 
 	.details {
 		order: 3;
 		grid-column: 1/3;
 		white-space: nowrap;
+		font-weight: 600;
 	}
 
 	.source,
 	.company {
 		display: flex;
 		align-items: center;
+		font-weight: 600;
 	}
 
 	.source {

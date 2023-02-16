@@ -10,15 +10,15 @@
 </script>
 
 <svelte:head>
-	<title>We are METTA!</title>
-	<meta name="description" content="HTML, dynamically rendered in a city near you" />
-	<meta name="twitter:card" content="summary_large_image" />
-	<meta name="twitter:site" content="@vercel" />
-	<meta name="twitter:creator" content="@sveltejs" />
-	<meta name="twitter:title" content="SvelteKit on the edge" />
-	<meta name="twitter:description" content="HTML, dynamically rendered in a city near you" />
+	<title>METTA</title>
+	<meta name="description" content="" />
+	<meta name="twitter:card" content="" />
+	<meta name="twitter:site" content="" />
+	<meta name="twitter:creator" content="" />
+	<meta name="twitter:title" content="" />
+	<meta name="twitter:description" content="" />
 	<meta name="twitter:image" content="{$page.url.origin}{card}" />
-	<meta name="twitter:image:alt" content="The Vercel and Svelte logos" />
+	<meta name="twitter:image:alt" content="" />
 </svelte:head>
 
 <Card />
