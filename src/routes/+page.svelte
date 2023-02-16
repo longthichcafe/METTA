@@ -10,7 +10,7 @@
 </script>
 
 <svelte:head>
-	<title>SvelteKit on the edge</title>
+	<title>We are METTA!</title>
 	<meta name="description" content="HTML, dynamically rendered in a city near you" />
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:site" content="@vercel" />
@@ -24,19 +24,19 @@
 <Card />
 
 <main>
-	<h1><span>Hello from the edge!</span></h1>
+	<h1><span>We are METTA</span></h1>
 
 	<div class="info">
 		<div class="block">
 			<div class="contents">
-				<span>Your city</span>
-				<strong>{data.city}</strong>
+				<span>Research & Develop</span>
+				<strong>Virtual And Augmented Reality</strong>
 			</div>
 		</div>
 		<div class="block">
 			<div class="contents">
-				<span>Your IP address</span>
-				<strong>{data.ip}</strong>
+				<span>Work directly with</span>
+				<strong>Professionals</strong>
 			</div>
 		</div>
 	</div>
