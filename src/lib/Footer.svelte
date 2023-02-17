@@ -4,7 +4,7 @@
 	</p>
 
 	<p class="details">
-		<a target="_blank" href="https://">Contact Us! 📮</a> 
+		<a target="_blank" href="https://forms.gle/bvK8RMtLuz5HHHdb6">Contact Us! 📮</a> 
 
 		<small>Generated at {new Date().toISOString()}</small>
 	</p>
