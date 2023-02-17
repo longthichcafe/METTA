@@ -1,9 +1,7 @@
 <script>
 	import '$lib/styles.css';
-	import card from '$lib/twitter-card.jpg';
 	import Card from '$lib/Card.svelte';
 	import Footer from '$lib/Footer.svelte';
-	import { page } from '$app/stores';
 
 	/** @type {import('./$types').PageData} */
 	export let data;
@@ -11,14 +9,6 @@
 
 <svelte:head>
 	<title>METTA</title>
-	<meta name="description" content="" />
-	<meta name="twitter:card" content="" />
-	<meta name="twitter:site" content="" />
-	<meta name="twitter:creator" content="" />
-	<meta name="twitter:title" content="" />
-	<meta name="twitter:description" content="" />
-	<meta name="twitter:image" content="{$page.url.origin}{card}" />
-	<meta name="twitter:image:alt" content="" />
 </svelte:head>
 
 <Card />
