@@ -1,6 +1,6 @@
 <footer>
 	<p class="company">
-		<a target="_blank" href="https://sites.google.com/monash.edu/metta">More Information 🤙</a>
+		<a target="_blank" href="https://docs.google.com/presentation/d/1Q9y9YCB10y5ONYbS4Sdnyx2otOGiBcYMDB4mdby8fq4/edit?usp=sharing">More Information 🤙</a>
 	</p>
 
 	<p class="details">
